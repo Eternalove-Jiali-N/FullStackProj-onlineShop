@@ -14,3 +14,9 @@
   <li>Admin</li>
   <li>User</li>
 </ul>
+
+<h3>Issues</h3>
+<ul>
+    <li>Invalid Picture Exhibition (Server.xml assigned?)</li>
+    <li>Counting Logic (Soldout functionality has not been implement)</li>
+</ul>
