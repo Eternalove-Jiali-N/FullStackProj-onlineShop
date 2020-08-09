@@ -11,6 +11,7 @@
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Authorities.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/service/CartService.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/dao/ProductDao.java
+/Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/dao/SalesOrderDao.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/model/User.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/controller/CartController.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/model/CartItem.java
@@ -20,8 +21,10 @@
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/controller/RegistrationController.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/dao/CartDao.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/service/ProductService.java
+/Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/controller/OrderController.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/service/SalesOrderService.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/SecurityConfig.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/service/CustomerService.java
 /Users/zilewang/IdeaProjects/onlineShop/src/main/java/onlineShop/log/PaymentAction.java

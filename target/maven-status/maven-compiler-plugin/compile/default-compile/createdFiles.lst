@@ -1,4 +1,5 @@
 onlineShop/model/Product.class
+onlineShop/dao/SalesOrderDao.class
 onlineShop/dao/CartDao.class
 onlineShop/model/ShippingAddress.class
 onlineShop/log/Logger.class
@@ -9,12 +10,14 @@ onlineShop/model/SalesOrder.class
 onlineShop/model/CartItem.class
 onlineShop/service/CustomerService.class
 onlineShop/dao/ProductDao.class
+onlineShop/service/SalesOrderService.class
 onlineShop/service/CartItemService.class
 onlineShop/model/BillingAddress.class
 onlineShop/controller/CartItemController.class
 onlineShop/log/PaymentAction.class
 onlineShop/dao/CartItemDao.class
 onlineShop/controller/ProductController.class
+onlineShop/controller/OrderController.class
 onlineShop/controller/HomePageController.class
 onlineShop/log/ServerLogger.class
 onlineShop/model/Cart.class

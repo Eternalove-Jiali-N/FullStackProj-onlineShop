@@ -28,6 +28,11 @@
 
     <action-state id="processOrder">
         <evaluate expression="cartItemDao.removeAllCartItems(order.cart)" />
+        <transition to="saveOrder" />
+    </action-state>
+
+    <action-state id="saveOrder">
+        <evaluate expression="salesOrderService.addSalesOrder(order)" />
         <transition to="thankCustomer" />
     </action-state>
 
