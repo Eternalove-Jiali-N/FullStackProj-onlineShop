@@ -17,6 +17,6 @@
 
 <h3>Issues</h3>
 <ul>
-    <li>Invalid Picture Exhibition (Server.xml assigned?)</li>
-    <li>Counting Logic (Soldout functionality has not been implement)</li>
+    <li>Invalid Picture Exhibition, apache.tomcat.9.0.37/conf/Server.xml? JSP logic error?</li>
+    <li>Counting Logic (Soldout functionality has not been implemented)</li>
 </ul>
